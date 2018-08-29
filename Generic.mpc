@@ -1,0 +1,9 @@
+project (Generic) {
+    exename = Generic
+    install = .
+
+    Source_Files {
+        Point.cpp
+        driver.cpp
+    }
+}
